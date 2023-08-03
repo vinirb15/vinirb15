@@ -1,6 +1,6 @@
 ### Hi, I'm Vinícius! 😄
 
-- 🔭 I’m currently working on [Kikker][kikker]
+- 🔭 I’m currently working on [Poliedro][poliedro]
 - 🌱 I’m currently learning a little bit of everything
 - 📫 How to reach me: [Send Email][email]
 
@@ -47,7 +47,7 @@
 
 [spotify]: https://open.spotify.com/user/viniciusekx0?si=574602f449f2482d
 [email]: mailto:viniciusbueno15@gmail.com?subject=Hello%20Vinícius
-[kikker]: https://kikker.com.br
+[poliedro]: https://www.sistemapoliedro.com.br
 [twitter]: https://twitter.com/_vinirb15
 [youtube]: https://www.youtube.com/channel/UCIPRoZoQdHcpPy3eX_FPGPw
 [instagram]: https://www.instagram.com/vinirb15
