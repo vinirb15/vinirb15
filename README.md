@@ -1,54 +1,68 @@
-### Hi, I'm Vinícius! 😄
+<h1 align="center">Hey, I'm Vinícius! 👋</h1>
 
-- 🔭 I’m currently working on [Invillia][invillia]
-- 🌱 I’m currently learning a little bit of everything
-- 📫 How to reach me: [Send Email][email]
+<p align="center">
+  <em>Software Developer at <a href="https://invillia.ai" target="_blank">Invillia</a></em>
+</p>
 
-### :zap: GitHub Stats :zap:
-<img align="left" alt="vinirb15's GitHub Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=vinirb15&show_icons=true&theme=radical&show_icons=true&hide_border=true" />
-  
-<img align="right" alt="vinirb15's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinirb15&layout=compact&theme=radical&hide_border=true" />
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+---
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="vinirb15 Spotify" width="350" />](https://open.spotify.com/user/viniciusekx0?si=e4816d21bc444570)
+### 🚀 About Me
 
-### Most used Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
-[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
-[<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
-[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
-[<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][linkedin]
-[<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][linkedin]
-[<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][linkedin]
-[<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
-[<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
-[<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
+- 🔭 I’m currently working at [Invillia](https://invillia.ai)
+- 🌱 I’m always learning — right now, a bit of everything!
+- 📫 Reach me anytime: [viniciusbueno15@gmail.com](mailto:viniciusbueno15@gmail.com)
 
-<br />
-<br />
+---
 
-### Connect with me:
+### ⚡ GitHub Stats
 
-[<img align="left" alt="vinirb15 | YouTube" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="vinirb15 | Twitter" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vinirb15 | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vinirb15 | Instagram" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<div align="center">
+  <img alt="Wakapi Week Stats" width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vbueno&api_domain=wakapi.srv.vbueno.com.br&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" />
+</div>
 
-<br />
-<br />
+<div align="center">
+  <img alt="vinirb15 today" width="30%" src="https://wakapi.srv.vbueno.com.br/api/badge/vbueno/interval:today?label=today" />
+  <img alt="vinirb15 last 30d" width="34%" src="https://img.shields.io/endpoint?url=https://wakapi.srv.vbueno.com.br/api/compat/shields/v1/vbueno/interval:30_days&label=last%2030d" />
+</div>
 
-[spotify]: https://open.spotify.com/user/viniciusekx0?si=574602f449f2482d
-[email]: mailto:viniciusbueno15@gmail.com?subject=Hello%20Vinícius
-[invillia]: https://invillia.ai
-[twitter]: https://twitter.com/_vinirb15
-[youtube]: https://www.youtube.com/channel/UCIPRoZoQdHcpPy3eX_FPGPw
-[instagram]: https://www.instagram.com/vinirb15
-[linkedin]: https://linkedin.com/in/vbueno15
+---
+
+### 🛠️ Tools & Technologies
+
+<div align="left">
+  <img alt="VSCode" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
+  <img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+  <img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+  <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+  <img alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+  <img alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
+  <img alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" />
+  <img alt="Kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" />
+  <img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
+  <img alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+  <img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+  <img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
+  <img alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
+  <img alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" />
+</div>
+
+---
+
+### 📱 Connect with Me
+
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCIPRoZoQdHcpPy3eX_FPGPw" target="_blank">
+    <img alt="YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  </a>
+  <a href="https://twitter.com/_vinirb15" target="_blank">
+    <img alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://linkedin.com/in/vbueno15" target="_blank">
+    <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/vinirb15" target="_blank">
+    <img alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+</div>
+
+---
