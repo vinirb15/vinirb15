@@ -1,15 +1,14 @@
 <h1 align="center">Hey, I'm Vinícius! 👋</h1>
 
 <p align="center">
-  <em>Software Developer at <a href="https://invillia.ai" target="_blank">Invillia</a></em>
+  <em>Techlead at <a href="https://bycoders.com.br" target="_blank">ByCoders</a></em>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working at [Invillia](https://invillia.ai)
-- 🌱 I’m always learning — right now, a bit of everything!
+- 🔭 I’m currently working at [ByCoders](https://bycoders.com.br)
 - 📫 Reach me anytime: [viniciusbueno15@gmail.com](mailto:viniciusbueno15@gmail.com)
 
 ---
