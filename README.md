@@ -11,18 +11,16 @@
 - 🔭 I’m currently working at [ByCoders](https://bycoders.com.br)
 - 📫 Reach me anytime: [viniciusbueno15@gmail.com](mailto:viniciusbueno15@gmail.com)
 
----
+<!-- ### ⚡ GitHub Stats -->
 
-### ⚡ GitHub Stats
-
-<div align="center">
+<!-- <div align="center">
   <img alt="Wakapi Week Stats" width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vbueno&api_domain=wakapi.srv.vbueno.com.br&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" />
 </div>
 
 <div align="center">
   <img alt="vinirb15 today" width="30%" src="https://wakapi.srv.vbueno.com.br/api/badge/vbueno/interval:today?label=today" />
   <img alt="vinirb15 last 30d" width="34%" src="https://img.shields.io/endpoint?url=https://wakapi.srv.vbueno.com.br/api/compat/shields/v1/vbueno/interval:30_days&label=last%2030d" />
-</div>
+</div> -->
 
 ---
 
